@@ -1,0 +1,48 @@
+body {
+  background-color: #ebebeb;
+}
+
+.col-md-11 {
+  /* margin: 20px; */
+  margin-left: 35px;
+}
+.card {
+  background-color: #fff;
+  /* margin: 100px; */
+  /* margin-left: 200px; */
+  width: 60%;
+  margin-top: 20px;
+  margin-left: 190px;
+}
+
+img {
+  margin: 10px;
+  width: 100%;
+  border-radius: 10px;
+  height: 120px;
+}
+
+.ml-100 {
+  margin-left: 10px;
+  margin-top: 20px;
+}
+
+#card-values {
+  margin-left: 120px;
+}
+
+#card-timing {
+  margin-left: 133px;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.mb-50 {
+  margin-bottom: 20px;
+}
+
+.last-row {
+  padding-left: 135px;
+}

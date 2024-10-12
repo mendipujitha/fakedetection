@@ -1,0 +1,41 @@
+body {
+  background-color: #ebebeb;
+}
+
+.row {
+  margin: 0px 40px 30px 40px;
+}
+
+.col-md-8 {
+  background-color: #ffffff;
+  margin-left: 15px;
+}
+
+#review,
+#rating {
+  cursor: text;
+  width: 400px;
+  margin: 20px;
+  margin-left: 130px;
+}
+
+#submitReview {
+  margin: 10px 0px 30px 280px;
+}
+
+.carousel-item {
+  height: 300px;
+}
+
+img {
+  width: 100%;
+  height: 350px;
+  max-height: 350px;
+}
+
+.card img {
+  margin: 10px;
+  width: 100%;
+  border-radius: 50%;
+  height: 120px;
+}

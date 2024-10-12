@@ -1,0 +1,32 @@
+body {
+  background-color: #ebebeb;
+}
+
+/* Navbar styling */
+.navbar {
+  margin-top: 20px;
+}
+
+.navbar-nav {
+  float: none !important;
+}
+
+.navbar-brand {
+  color: white !important;
+  /* text-decoration: none; */
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  margin-left: 20px;
+}
+
+li > a {
+  color: white !important;
+  float: left;
+  font-size: 18px;
+  text-decoration: none !important;
+}

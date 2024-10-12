@@ -1,0 +1,17 @@
+.card {
+  margin: 20px;
+}
+
+.card img {
+  height: 250px;
+  width: 100%;
+}
+
+.card-img-top {
+  width: 25rem;
+}
+
+.card-body a {
+  /* text-align: center; */
+  text-decoration: none;
+}
